@@ -1,3 +1,3 @@
 let direct=()=>{
-  location.replace("Home.html");
+  location.replace("home.html");
 }
