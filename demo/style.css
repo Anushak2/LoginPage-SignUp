@@ -1,10 +1,10 @@
-.body1, .body2 , .body3 {
+.body1 {
      background-image: url("https://i.imgur.com/81RTZEw.png");
     background-repeat: no-repeat;
     background-size: cover;
  }  
  
-.container, .container1 {
+.container {
     color: rgb(61, 17, 61);
     background-color: #f9fffb;
     width: 350px;
@@ -32,7 +32,7 @@
   }
   
   .LoggedIn {
-      color: rebeccapurple;
+      color: #663399;
       align-items: center; 
       opacity: 0.7;
       width: 200px;
